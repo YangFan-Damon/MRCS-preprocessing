@@ -7,6 +7,6 @@ how to install the MRCS-Preprocessing software
 4) Make sure these scripts motioncor2,gctf,gautomatch and pbz2 are in the excuting path.
 5) Chage the PYTHON interpreter in the software of TsinghuaTitan.py and TsinghuaTitangui.py.
 6) You can set up the enviroment file like the env.sh in the folder.
-7) Good luck!
+7) This software is none of bussiness with Tsinghua!Good luck!
 Click the link below for download:
 https://pan.baidu.com/s/1h3piVPEEvgWz2LgR35EJ9A   code:gwdt 
