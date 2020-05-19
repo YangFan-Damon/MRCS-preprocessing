@@ -8,3 +8,5 @@ how to install the MRCS-Preprocessing software
 5) Chage the PYTHON interpreter in the software of TsinghuaTitan.py and TsinghuaTitangui.py.
 6) You can set up the enviroment file like the env.sh in the folder.
 7) Good luck!
+Click the link below for download:
+https://pan.baidu.com/s/1h3piVPEEvgWz2LgR35EJ9A   code:gwdt 
